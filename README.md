@@ -77,6 +77,6 @@ NULL handling for open/unresolved records
 TO_DATE() for date formatting in Oracle SQL
 
 🚀** About**
-This project was built to strengthen SQL fundamentals commonly used in real-world data analysis — joins, aggregation, and filtering logic.
+ This project was built to strengthen SQL fundamentals commonly used in real-world data analysis — joins, aggregation, and filtering logic.
 
 Author: Muskan Shaikh
